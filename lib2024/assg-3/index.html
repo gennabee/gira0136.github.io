@@ -5,7 +5,7 @@
 	<meta charset="utf-8">
   <meta name="description" content="This is a HTML document containing HTML tags" >
   <meta name="keywords" content="HTML, HTML5, Advanced HTML, New Tags, Special Tags">
-  <meta name="robots" content="noindex, nofollow">
+  <meta name="robots" content="noindex, nofollow"><!--much information-->
   <meta name="author" content="Genevieve Girard"> 
 </head>
 <body><!--beginning of body tag-->
@@ -15,30 +15,30 @@
   <label for="lname">Last name:</label><!--lastname-->
   <input type="text" id="lname" name="lname" value="Last Name"><br>
 </form>
-<div id="email-container" class="form-elm">
+<div id="email-container" class="form-elm"><!--email id field-->
 	<label for="email">Email ID:</label>
 	<input type="email" name="email" id="email" value="example@email.com" readonly>
 </div>
-<div id="pass-container" class="form-elm">
+<div id="pass-container" class="form-elm"><!--password field-->
 	<label for="pass">Password</label>
 	<input type="password" name="pass" id="pass" required>
 </div>
-<p>Please enter your favourite cookie flavour.</p>
+<p>Please enter your favourite cookie flavour.</p><!--fav cookie text-->
 <form action="/action_page.php">
   <textarea name="message" rows="2" cols="30">Enter preferred flavour here</textarea>
 </form>
 
 <form>
-  <label for="date">Date:</label>
+  <label for="date">Date:</label><!--date-->
   <input type="date" id="date" name="date">
 </form>
 <form action="/action_page.php">
-  <label for="phone">Phone number:</label>
+  <label for="phone">Phone number:</label><!--phone number-->
   <input type="tel" id="phone" name="phone" placeholder="123-456-7890" pattern="[0-9]{3}-[0-9]{2}-[0-9]{3}" required>
 </form>
 <p>What gender do you identify with?</p>
 <form>
-  <input type="radio" id="female" name="gender" value="female">
+  <input type="radio" id="female" name="gender" value="female"><!-- gender radio -->
   <label for="female">Female</label><br>
   <input type="radio" id="male" name="gender" value="male">
   <label for="male">Male</label><br>
@@ -54,7 +54,7 @@
   <input type="text" id="city" name="city" value="City"><br>
 </form>
 
-<div id="province-drop-container" class="form-elm">
+<div id="province-drop-container" class="form-elm"><!--province drop down-->
 	<label for="provincename-drop-container">Province</label>
 		<select name="province-drop-container" id="provincename-drop-container">
 				<option value="alberta">Alberta</option>
@@ -70,7 +70,7 @@
 				<option value="north west territories">North West Territories</option>
 				<option value="nunavut">Nunavut</option>
 				<option value="yukon">Yukon</option>
-				<option value="notcanada">Do not reside in Canada</option>
+				<option value="notcanada">Do not reside in Canada</option><!--because someone may not live in Canada-->
 		</select>
 </div>
 <div id="country-drop-container" class="form-elm">
@@ -81,12 +81,12 @@
 		</select>
 	</div>
 <div>
-  <label for="postal_code">Postal code:</label>
+  <label for="postal_code">Postal code:</label> <!--postal code canadian-->
   <input type="text" id="postal_code" name="postal_code"
   pattern="[A-Za-z][0-9][A-Za-z][0-9][A-Za-z][0-9]" title="postal_code" value="A0A0A0">
 </div>
 <div id="hobbiesinterests-container" class="form-elm">
-					<h3>Hobbies and Interests</h3>
+					<h3>Hobbies and Interests</h3><!--hobby and interest check-->
 					<label for="sports">Sports</label>
 					<input type="checkbox" name="hobbiesandinterests" id="sports" value="sports"> <br>
 					<label for="traveling">Traveling</label>
@@ -99,10 +99,10 @@
 					<input type="checkbox" name="hobbiesandinterests" id="movies" value="movies"><br>
 				</div>
 				<div id="st-container" class="form-elm">
-					<label for="ur">URL for website:</label>	
+					<label for="ur">URL for website:</label><!--URL-->
 					<input type="url" name="ur" id="ur" ><br>
 				</div>
-				<button type="submit">Submit</button>
+				<button type="submit">Submit</button><!--are these supposed to work?-->
 				<button type="reset">Reset</button>
 			</body>
 			</html>
