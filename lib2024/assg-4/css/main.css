@@ -32,6 +32,7 @@ button {
 }
 
 #logo {
+	position: absolute;
 	padding-top: 0px;
 	padding-left: 45px;
   width: 114px;
