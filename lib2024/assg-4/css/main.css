@@ -37,6 +37,11 @@ h1 {
   object-fit: cover;
   object-position: 15% 100%;
 }
+.white {
+  column-count: 2;
+  column-gap: 40px;
+  column-width:20px;
+}
 
 .p {
 	height: 300px;
