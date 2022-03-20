@@ -43,6 +43,7 @@ h1 {
   margin-right: 35%;
 }
 body {
+	height:  680px;
 }
 .orange {
   float: left;
@@ -51,8 +52,8 @@ body {
   padding: 20px;
 }
 .img {
-	width: 114px;
-   height: 112px;
+	width: 213px;
+   height: 284px;
    padding-bottom: 15px;
  
 }
