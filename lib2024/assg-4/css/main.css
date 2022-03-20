@@ -13,8 +13,11 @@ header {
 	height: 233px;
   	color: black;
 
-
 }
+.button {background-color: #6dcff6;
+			border-radius: 8px;
+			padding: 165px 165px}
+
 p {
 	height: 680;
   text-align: left;
