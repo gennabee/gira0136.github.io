@@ -5,12 +5,15 @@ html{
   width: 100%;
 }
 
-h1 {
-	 padding-left: 240px;
-	 padding-top: 45px;
+header {
+	margin: 0px;
+	padding-left: 240px;
+	padding-top: 45px;
 	background-color: #7cc576;
 	height: 233px;
   	color: black;
+
+
 }
 p {
 	height: 680;
