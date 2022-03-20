@@ -21,13 +21,12 @@ header {
 	border-radius: 8px;
 	width: 165px;
 	padding: 24px 48px;
-		}
+}
 .img {
-   position: relative;
-  top: 20px;
-  margin-left: 45px;
   width: 200px;
-  height: 100px;
+  height: 300px;
+  object-fit: cover;
+  object-position: 15% 100%;
 }
 p {
 	height: 680;
