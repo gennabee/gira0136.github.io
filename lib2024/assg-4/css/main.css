@@ -47,6 +47,7 @@ button {
 }
 
 #red {
+	float:  right;
 	height: 300px;
   text-align: left;
   color: black;
