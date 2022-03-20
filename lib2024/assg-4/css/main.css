@@ -14,7 +14,7 @@ header {
   	color: black;
 
 }
-.button {
+.purplebutton {
 	background-color: #6dcff6;
 	border: none;
 	font-size: 20px;
@@ -39,7 +39,7 @@ p {
   margin-right: 35%;
 }
 
-section {
+.orange {
   float: left;
   width: 30%;
   height: 680px;
