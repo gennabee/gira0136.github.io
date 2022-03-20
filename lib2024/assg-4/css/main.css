@@ -33,6 +33,9 @@ button {
 	margin-top: 140px;
 }
 
+#p {
+	font-size: 12px;
+}
 #logo {
 	position: absolute;
 	z-index: 3;
