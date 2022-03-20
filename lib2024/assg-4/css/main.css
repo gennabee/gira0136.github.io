@@ -40,26 +40,20 @@ button {
   object-position: 15% 50%;
 }
 
-#white {
-  column-count: 2;
-  column-gap: 40px;
-  column-rule-width: 1px;
-}
-
-#red {
-	float:  right;
-	height: 300px;
-  text-align: left;
-  color: black;
-  margin-right: 35%;
-}
-
-#orange {
+.column {
   float: left;
-  width: 30%;
+  padding: 10px;
   height: 300px;
-  padding: 20px;
 }
+
+.left {
+  width: 75%;
+}
+
+.right {
+  width: 25%;
+}
+
 
 #photo-1 {
 	width: 284px;
