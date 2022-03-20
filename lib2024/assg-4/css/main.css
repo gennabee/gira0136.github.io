@@ -15,10 +15,11 @@ header {
 
 }
 .button {background-color: #6dcff6;
-			font-size: 20px;
-			border-radius: 8px;
-			width: 165px
-			padding: 24px 48px
+	border: none;
+	font-size: 20px;
+	border-radius: 8px;
+	width: 165px
+	padding: 24px 48px
 		}
 
 p {
