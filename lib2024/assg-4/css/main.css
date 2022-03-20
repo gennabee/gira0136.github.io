@@ -45,15 +45,15 @@ button {
 }
 .column {
   float: left;
-  padding: 5px;
+  padding: 10px;
 }
 
 .left {
-  width: 60%;
+  width: 75%;
 }
 
 .right {
-  width: 40%;
+  width: 25%;
 }
 
 /* Clear floats after the columns */
