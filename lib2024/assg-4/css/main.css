@@ -40,6 +40,9 @@ button {
   object-position: 15% 50%;
 }
 
+* {
+  box-sizing: border-box;
+}
 .column {
   float: left;
   padding: 5px;
