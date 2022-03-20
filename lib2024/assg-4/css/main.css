@@ -50,6 +50,7 @@ button {
 }
 .column {
   float: left;
+  padding-top: 5px;
   padding: 7px;
 }
 
