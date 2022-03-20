@@ -22,8 +22,8 @@ header {
 	width: 165px;
 	padding: 24px 48px;
 }
-.logo-position-1 {
-  width: 200px;
+.img {
+  width: 600px;
   height: 300px;
   object-fit: cover;
   object-position: 15% 100%;
