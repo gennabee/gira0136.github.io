@@ -24,7 +24,8 @@ header {
 	margin-right: 62px;
 	margin-left: 60px;
 }
-.img {
+img {
+	padding-left: 45px;
   width: 600px;
   height: 300px;
   object-fit: cover;
