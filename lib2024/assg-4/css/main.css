@@ -46,20 +46,6 @@ button {
   column-rule-width: 1px;
 }
 
-#red {
-	height: 300px;
-  text-align: left;
-  color: black;
-  margin-right: 35%;
-}
-
-#orange {
-  float: left;
-  width: 30%;
-  height: 680px;
-  padding: 20px;
-}
-
 #photo-1 {
 	width: 284px;
    height: 213px;
