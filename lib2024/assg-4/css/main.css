@@ -12,6 +12,12 @@ header {
   	color: black;
 
 }
+
+body{
+	margin: 0px;
+	padding: 0px;
+}
+
 h1 {
   position: absolute;
   left: 240px;
