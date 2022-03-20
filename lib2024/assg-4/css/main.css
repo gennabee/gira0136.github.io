@@ -14,14 +14,21 @@ header {
   	color: black;
 
 }
-.button {background-color: #6dcff6;
+.button {
+	background-color: #6dcff6;
 	border: none;
 	font-size: 20px;
 	border-radius: 8px;
 	width: 165px;
 	padding: 24px 48px;
 		}
-
+.img {
+   position: relative;
+  top: 20px;
+  margin-left: 45px;
+  width: 200px;
+  height: 100px;
+}
 p {
 	height: 680;
   text-align: left;
