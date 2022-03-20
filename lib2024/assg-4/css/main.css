@@ -24,7 +24,7 @@ header {
 	margin-right: 62px;
 	margin-left: 60px;
 }
-img {
+.img {
 	padding-top: 0px;
 	padding-left: 45px;
   width: 114px;
@@ -32,18 +32,25 @@ img {
   object-fit: cover;
   object-position: 15% 100%;
 }
-p {
+.p {
 	height: 300px;
   text-align: left;
   color: black;
   margin-right: 35%;
 }
-
+body {
+}
 .orange {
   float: left;
   width: 30%;
   height: 680px;
   padding: 20px;
+}
+.img {
+	width: 114px;
+   height: 112px;
+   padding-bottom: 15px;
+ 
 }
 
 footer{
