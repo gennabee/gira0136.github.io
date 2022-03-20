@@ -6,7 +6,8 @@ html{
 }
 
 header {
-	margin: 0px;
+	margin-top: 0px;
+	margin-left: 0px;
 	background-color: #7cc576;
 	height: 225px;
 	width: 100%;
