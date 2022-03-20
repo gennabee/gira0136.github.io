@@ -17,6 +17,7 @@ header {
 .button {background-color: #6dcff6;
 			border-radius: 8px;
 			width: 165px
+			padding: 24px 48px
 		}
 
 p {
