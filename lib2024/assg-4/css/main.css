@@ -40,7 +40,7 @@ button {
   object-position: 15% 50%;
 }
 
-#white {
+#p{
   column-count: 2;
   column-gap: 40px;
   column-rule-width: 1px;
