@@ -16,7 +16,8 @@ header {
 }
 .button {background-color: #6dcff6;
 			border-radius: 8px;
-			width: 165px}
+			width: 165px
+			height: 65px}
 
 p {
 	height: 680;
