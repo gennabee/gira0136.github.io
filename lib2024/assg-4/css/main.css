@@ -88,5 +88,7 @@ button {
 footer{
 	height: 110px;
 	background-color: #7cc576;
+	color: black;
+	font-size: 40px;
 }
 
