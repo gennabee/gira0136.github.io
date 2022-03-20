@@ -73,7 +73,8 @@ div.gallery {
 
 
 div.gallery img {
-  width: 100%;
+  width: 33%;
+  height: auto;
 }
 
 div.desc {
