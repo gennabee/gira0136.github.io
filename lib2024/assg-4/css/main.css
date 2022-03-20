@@ -18,7 +18,7 @@ h1 {
   top: 46px;
 
 }
-.button {
+#button {
 	background-color: #6dcff6;
 	border: none;
 	font-size: 20px;
@@ -29,7 +29,7 @@ h1 {
 	margin-left: 60px;
 	margin-top: 140px;
 }
-.img {
+#logo {
 	padding-top: 0px;
 	padding-left: 45px;
   width: 114px;
@@ -37,26 +37,26 @@ h1 {
   object-fit: cover;
   object-position: 15% 100%;
 }
-.white {
+#white {
   column-count: 2;
   column-gap: 40px;
   column-width:20px;
 }
 
-.p {
+#p {
 	height: 300px;
   text-align: left;
   color: black;
   margin-right: 35%;
 }
 
-.orange {
+#orange {
   float: left;
   width: 30%;
   height: 680px;
   padding: 20px;
 }
-.img {
+#photo-1 {
 	width: 213px;
    height: 284px;
    padding-bottom: 15px;
