@@ -38,14 +38,16 @@ p {
   color: black;
   margin-right: 25%;
 }
-footer{
-	height: 110px;
-	background-color: #7cc576;
-}
+
 section {
   float: left;
   width: 30%;
   height: 680px;
   padding: 20px;
+}
+
+footer{
+	height: 110px;
+	background-color: #7cc576;
 }
 
