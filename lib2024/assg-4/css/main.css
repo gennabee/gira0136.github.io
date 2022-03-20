@@ -16,7 +16,7 @@ header {
 }
 h1 {
   position: absolute;
-  width: 100%;
+  left: 240px;
   top: 46px;
 }
 .button {
