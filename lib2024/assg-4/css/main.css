@@ -51,11 +51,11 @@ button {
 }
 
 .left {
-	padding-top: 10px;
   width: 65%;
 }
 
 .right {
+	margin-top: 10px;
   width: 35%;
 }
 
