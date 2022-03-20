@@ -33,6 +33,7 @@ button {
 
 #logo {
 	position: absolute;
+	z-index: 3;
 	padding-top: 0px;
 	padding-left: 45px;
   width: 114px;
