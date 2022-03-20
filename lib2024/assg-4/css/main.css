@@ -29,11 +29,6 @@ h1 {
 	margin-left: 60px;
 	margin-top: 140px;
 }
-
-.white {
-  column-count: 2;
-}
-
 .img {
 	padding-top: 0px;
 	padding-left: 45px;
@@ -42,6 +37,11 @@ h1 {
   object-fit: cover;
   object-position: 15% 100%;
 }
+.white {
+  column-count: 2;
+}
+
+
 .p {
 	height: 300px;
   text-align: left;
