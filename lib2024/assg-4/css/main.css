@@ -42,7 +42,7 @@ button {
 #white {
   column-count: 2;
   column-gap: 40px;
-  column-width:20px;
+  column-rule-width: 1px;
 }
 
 #red {
