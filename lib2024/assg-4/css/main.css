@@ -5,6 +5,12 @@ html{
 
 }
 
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
 header {
 	background-color: #7cc576;
 	height: 225px;
