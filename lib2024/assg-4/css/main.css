@@ -132,7 +132,7 @@ footer{
 }
 
 /* Clear floats after image containers */
-.row::after {
+.rows::after {
   content: "";
   clear: both;
   display: table;
