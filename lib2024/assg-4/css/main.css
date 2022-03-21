@@ -125,7 +125,14 @@ footer{
 
 }
 
-#links {
-	float: right;
-	margin-right: 10px;
+.link {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
 }
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
