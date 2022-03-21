@@ -124,7 +124,8 @@ footer{
    padding-left: 15px;
 
 }
-.links {
+.column {
+	float: right;
 	margin-left: 75%;
 	margin-right: 25%;
 }
