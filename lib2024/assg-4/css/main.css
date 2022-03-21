@@ -42,14 +42,13 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-
+/*html css*/
 html{
-	background-color: #f3f4f6;
 	height: 1019px;
 	width: 960px;
 
 }
-
+/*header css*/
 header {
 	background-color: #7cc576;
 	height: 225px;
@@ -58,27 +57,27 @@ header {
   	font-size: 20px;
 
 }
-
+/*body css*/
 body {
 	margin: 0px;
 	padding: 0px;
 	font-size: 14px;
 
 }
-
+/*h1 css*/
 h1 {
   position: absolute;
   left: 240px;
   top: 20px;
 
 }
-
+/*h3 css*/
 h3 {
 	font-size: 24px;
 	margin: 10px;
 	padding: -10px; 
 }
-
+/*allbutton css*/
 button {
 	background-color: #6dcff6;
 	border: none;
@@ -90,11 +89,11 @@ button {
 	margin-left: 50px;
 	margin-top: 140px;
 }
-
+/*paragraph css*/
 #p {
 	font-size: 8px;
 }
-
+/*logo css*/
 #logo {
 	position: absolute;
 	z-index: 3;
@@ -105,7 +104,7 @@ button {
   object-fit: cover;
   object-position: 15% 50%;
 }
-
+/*columns for paragraphs*/
 * {
   box-sizing: border-box;
 }
@@ -136,7 +135,7 @@ button {
    height: 213px;
    padding-bottom: 15px;
 }
-
+/*all gallery css*/
 .gallery {
   margin: 40px;
   margin-top: 5px;
@@ -155,7 +154,7 @@ button {
   padding: 5px;
   text-align: center;
 }
-
+/*footer css*/
 footer{
 	position: absolute;
 	width: 960px;
@@ -169,7 +168,7 @@ footer{
    padding-left: 15px;
 
 }
-
+/*link image buttons*/
 .links {
   float: right;
   width: 6%;
