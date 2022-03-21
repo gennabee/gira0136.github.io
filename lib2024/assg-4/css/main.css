@@ -103,6 +103,12 @@ button {
   text-align: center;
 }
 
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
 footer{
 	position: absolute
 	bottom: 0;
