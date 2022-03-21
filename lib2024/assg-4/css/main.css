@@ -128,7 +128,8 @@ footer{
 .links {
   float: right;
   width: 15%;
-  padding: 5px;
+  padding-top: 40px;
+  padding-left: 15px;
 }
 
 /* Clear floats after image containers */
