@@ -83,7 +83,19 @@ Value attribute is used to set the value of &lt;input&gt; elements. Example &lt;
 <li> <b>Ques:</b>  Create CSS animation block to rotate an element that has the following properties :<br>
 •	class "rotate-me"<br>
 •	It rotates 5 times at intervals of 0.5s with<br> "linear" transition using animation <br>keyframes "spin"<br>
-<b>Ans:</b>    </li><br>
+
+<b>Ans:</b>   @keyframes rotate-me {<br>
+  0% {transform:rotate(0deg)}<br>
+  25% {transform:rotate(90deg)}<br>
+  75% {transform:rotate(180deg)}<br>
+  100% {transform:rotate(360deg)}<br>
+}<br>
+@keyframes rotate-me2 {<br>
+  100% {transform:rotate(360deg) translateY(<br>40px);}<br>
+}<br>
+  animation: rotate-me2 5s linear infinite;<br>
+}<br>
+ </li><br>
 
 <li> <b>Ques:</b>  How would you include create an alert with string "I love JavaScript" using JavaScript?<br>
 	<b>Ans:</b>    </li><br>
