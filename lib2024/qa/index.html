@@ -84,16 +84,18 @@ Value attribute is used to set the value of &lt;input&gt; elements. Example &lt;
 •	class "rotate-me"<br>
 •	It rotates 5 times at intervals of 0.5s with<br> "linear" transition using animation <br>keyframes "spin"<br>
 
-<b>Ans:</b>   @keyframes rotate-me {<br>
-  0% {transform:rotate(0deg)}<br>
-  25% {transform:rotate(90deg)}<br>
-  75% {transform:rotate(180deg)}<br>
-  100% {transform:rotate(360deg)}<br>
+<b>Ans:</b>#rotate-me {<br>
+  margin: auto;<br>
+  border: 2px solid black;<br>
+  width: 100px;<br>
+  height: 100px;<br>
+  background-color: blue;<br>
+  color: black;<br>
+  animation: rotate-me 5s infinite;<br>
 }<br>
-@keyframes rotate-me2 {<br>
-  100% {transform:rotate(360deg) translateY(<br>40px);}<br>
-}<br>
-  animation: rotate-me2 5s linear infinite;<br>
+
+@keyframes rotate-me {<br>
+  100% {transform: rotate(360deg);}<br>
 }<br>
  </li><br>
 
