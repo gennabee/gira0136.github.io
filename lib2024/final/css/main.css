@@ -54,6 +54,11 @@ table {
 
 }
 
+.topnav {
+  overflow: hidden;
+  background-color: #72a9ae;
+}
+
 .topnav a {
   float: left;
   color: #000000;
