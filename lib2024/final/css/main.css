@@ -158,3 +158,29 @@ tr:nth-child(even) {background-color: #efefef;}
 body {
   font-family: "Sofia", sans-serif;
 }
+
+* {
+  box-sizing: sectionone;
+}
+.columntwo {
+  float: left;
+  padding: 10px;
+}
+
+.lefttwo {
+	padding-left: 10px;
+   width: 40%;
+  font-size: 14px;
+}
+
+.righttwo {
+  width: 40%;
+  padding-right: 25px;
+}
+
+footer {
+	background-color: #454545;
+	position: absolute;
+	width: 960px;
+	height: 260px;
+}
