@@ -178,9 +178,8 @@ body {
   padding-right: 25px;
 }
 
-footer {
+.footer {
 	background-color: #454545;
-	position: absolute;
 	width: 960px;
 	height: 260px;
 }
