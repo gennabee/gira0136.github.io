@@ -121,6 +121,7 @@ html{
 	color: #72a9ae;
 	font-size: 12px;
 	margin-bottom: 25px;
+	margin-left: 25px;
 }
 
 .edittitle {
@@ -139,6 +140,7 @@ table, td, th {
   font-size: 15px;
   padding: 10px;
   height: 35px;
+  margin-left: 25px;
 }
 
 table {
