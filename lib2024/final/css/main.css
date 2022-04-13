@@ -88,6 +88,10 @@ html{
 
 }
 
+.bridge {
+	width: 120px;
+}
+
 * {
   box-sizing: sectionone;
 }
@@ -106,9 +110,6 @@ html{
   width: 50%;
 }
 
-#img {
-	width: 120px;
-}
 
 
 
