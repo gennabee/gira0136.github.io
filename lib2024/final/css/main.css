@@ -135,6 +135,7 @@ html{
 table, td, th {
   border: 2px solid black;
   text-align: center;
+  font-size: 15px;
   padding: 10px;
   height: 35px;
 }
