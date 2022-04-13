@@ -54,6 +54,11 @@ table {
 
 }
 
+html{
+	width: 960px;
+
+}
+
 .topnav {
   overflow: hidden;
   background-color: #72a9ae;
@@ -79,7 +84,25 @@ table {
 	text-indent: 50px;
 	color: #72a9ae;
 	font-family: 'Montserrat', sans-serif;
-	
+
+}
+
+* {
+  box-sizing: sectionone;
+}
+.column {
+  float: left;
+  padding: 7px;
+}
+
+.left {
+	padding-top: 0px;
+  width: 65%;
+}
+
+.right {
+	margin-top: 60px;
+  width: 35%;
 }
 
 .abouttitle {
