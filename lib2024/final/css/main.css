@@ -132,6 +132,22 @@ html{
 	font-size: 12px;
 }
 
+table, td, th {
+  border: 2px solid black;
+  text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th {
+  height: 70px;
+  color: #72a9ae;
+  background-color: #ffffff;
+}
+tr:nth-child(even) {background-color: #efefef;}
 body {
   font-family: "Sofia", sans-serif;
 }
