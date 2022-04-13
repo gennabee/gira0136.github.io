@@ -163,7 +163,7 @@ body {
   box-sizing: sectiontwo;
 }
 .columntwo {
-  float: left;
+  float: center;
   padding: 10px;
 }
 
