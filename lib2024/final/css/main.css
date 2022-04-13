@@ -56,13 +56,19 @@ table {
 
 .topnav a {
   float: left;
-  color: #72a9ae;
+  color: #000000;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
 }
 
+.menubar {
+	background-color: #72a9ae;
+	border-style:  solid;
+	border-color: #72a9ae;
+
+}
 .logo {
 	text-indent: 50px;
 	color: #72a9ae;
