@@ -89,7 +89,7 @@ html{
 }
 
 #bridge {
-	width: 120px;
+	width: 450px;
 }
 
 * {
@@ -103,6 +103,7 @@ html{
 .left {
 	padding-top: 0px;
   width: 60%;
+  font-size: 8px;
 }
 
 .right {
