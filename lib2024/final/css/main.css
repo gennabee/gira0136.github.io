@@ -67,11 +67,19 @@ table {
 
 .abouttitle {
 	color: #72a9ae;
-	font-size: 10px;
+	font-size: 12px;
 }
 .scheduletitle {
 	color: #72a9ae;
-	font-size: 10px;
+	font-size: 12px;
+}
+.edittitle {
+	color: #72a9ae;
+	font-size: 12px;
+}
+.profileinfotitle {
+	color: #72a9ae;
+	font-size: 12px;
 }
 
 body {
