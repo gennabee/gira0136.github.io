@@ -179,21 +179,3 @@ tr:nth-child(even) {background-color: #efefef;}
   width: 20%;
   padding-right: 25px;
 }
-
-}
-/*link image buttons*/
-.links {
-  float: right;
-  width: 6%;
-  margin-top: -5%;
-  padding-top: -30px;
-  padding-right: 50px;
-
-}
-
-/* Clear floats after image containers */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
