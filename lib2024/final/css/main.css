@@ -58,6 +58,10 @@ html{
 
 }
 
+body {
+  font-family: "Sofia", sans-serif;
+}
+
 .topnav {
   overflow: hidden;
   background-color: #72a9ae;
@@ -155,9 +159,7 @@ th {
   background-color: #ffffff;
 }
 tr:nth-child(even) {background-color: #efefef;}
-body {
-  font-family: "Sofia", sans-serif;
-}
+
 
 * {
   box-sizing: sectiontwo;
