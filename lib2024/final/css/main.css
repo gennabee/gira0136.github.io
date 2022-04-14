@@ -97,6 +97,7 @@ body {
 * {
   box-sizing: sectionone;
 }
+
 .column {
   float: left;
   padding: 10%;
