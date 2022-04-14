@@ -98,6 +98,7 @@ body {
 	column-count:  2;
 	column-width: 50%;
 	float: left;
+	font-size: 12px;
 }
 
 #green {
