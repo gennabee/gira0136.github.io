@@ -92,7 +92,8 @@ body {
 
 #bridge {
 	width: 290px;
-	padding-top: 15px;
+	padding-top: 50px;
+	padding-left: 20px;
 }
 
 .red {
