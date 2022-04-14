@@ -201,12 +201,12 @@ input[type=text] {
 }
 
 .links {
-  float: right;
-  width: 6%;
-  margin-top: -5%;
-  padding-top: -30px;
-  padding-right: 50px;
-  border-color: skyblue;
+	background-color: deepskyblue;
+ 	float: right;
+ 	width: 6%;
+ 	margin-top: -5%;
+ 	padding-top: -30px;
+ 	padding-right: 50px;
 }
 
 .quicklinks{
