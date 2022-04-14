@@ -193,6 +193,7 @@ input[type=text] {
 
 
 .teal {
+	background-color: darkorange;
 	width: 960px;
  	column-count:  3;
 	column-width: 33%;
