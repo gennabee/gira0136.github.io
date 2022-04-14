@@ -186,3 +186,7 @@ input[type=text] {
   border: 1px solid #555;
   outline: none;
 }
+
+footer{
+  column-count: 3;
+}
