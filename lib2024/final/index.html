@@ -94,7 +94,44 @@
 		 		<div class="edittitle">
 					<h2>EDIT PROFILE</h2>
 				</div>
-				
+					<form action="/action_page.php">
+  				<label for="aname">Name:</label><!--a name-->
+  				<input type="text" id="aname" name="aname" value="Name" required><br>
+  			</form>
+  			<div id="email-container" class="form-elm"><!--email id field-->
+				<label for="email">Email:</label>
+				<input type="email" name="email" id="email" value="example@email.com" readonly>
+			</div>
+			<form action="/action_page.php">
+  				<label for="address">Address:</label><!--address input-->
+  				<input type="text" id="address" name="address" value="Address" required><br>
+  				<label for="city">City:</label><!--city input-->
+  				<input type="text" id="city" name="city" value="City"><br>
+			</form>
+			<div id="province-drop-container" class="form-elm"><!--province drop down-->
+	<label for="provincename-drop-container">Province</label>
+		<select name="province-drop-container" id="provincename-drop-container">
+			<option value="seletprovince" selected>Select Province</option>
+				<option value="alberta">Alberta</option>
+				<option value="british columbia">British Columbia</option>
+				<option value="manitoba">Manitoba</option>
+				<option value="new brunswick">New Brunswick</option>
+				<option value="newfoundland and labrador">Newfoundland and Labrador</option>
+				<option value="nova scotia">Nova Scotia</option>
+				<option value="ontario">Ontario</option>
+				<option value="prince edward island">Prince Edward Island</option>
+				<option value="quebec">Quebec</option>
+				<option value="saskatchewan">Saskatchewan</option>
+				<option value="north west territories">Northwest Territories</option>
+				<option value="nunavut">Nunavut</option>
+				<option value="yukon">Yukon</option>
+		</select>
+</div>
+<div>
+  <label for="postal_code">Postal code:</label> <!--postal code canadian-->
+  <input type="text" id="postal_code" name="postal_code"
+  pattern="[A-Za-z][0-9][A-Za-z][0-9][A-Za-z][0-9]" title="postal_code" value="A0A0A0" required>
+</div>
 				<div class="profileinfotitle">
 			<h2>PROFILE INFO</h2>
 		</div><!--CARD STUFF STARTS-->
