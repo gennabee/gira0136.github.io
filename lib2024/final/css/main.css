@@ -184,3 +184,15 @@ footer{
   padding-top: -30px;
   padding-right: 50px;
 }
+
+.quicklinks{
+	float: center;
+}
+
+.sociallink{
+	float: center;
+}
+
+.address{
+	float: center;
+}
