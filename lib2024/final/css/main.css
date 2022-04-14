@@ -106,6 +106,7 @@ body {
 
 .green {
 	background-color: seagreen;
+	height: 450px;
 	column-count: 2;
 	column-width: 50%;
 	float: left;
