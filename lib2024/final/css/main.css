@@ -187,16 +187,13 @@ footer{
 }
 
 .quicklinks{
-	float: center;
-	transform: translate(-50%, -50%);
+	align-items: center;
 }
 
 .sociallink{
-	float: center;
-	transform: translate(-50%, -50%);
+	align-items: center;
 }
 
 .address{
-	float: center;
-	transform: translate(-50%, -50%);
+	align-items: center;
 }
