@@ -171,12 +171,12 @@ tr:nth-child(even) {background-color: #efefef;}
 
 .left {
 	padding-left: 10px;
-   width: 40%;
+   width: 50%;
   font-size: 14px;
 }
 
 .right {
-  width: 40%;
+  width: 50%;
   padding-right: 25px;
 }
 
