@@ -94,22 +94,9 @@ body {
 	width: 290px;
 }
 
-
-.column {
-  float: left;
-  padding: 10px;
-}
-
-.left {
-	padding-top: 0px;
-	padding-left: 10px;
-   width: 65%;
-  font-size: 14px;
-}
-
-.right {
-	margin-top: 0px;
-  width: 30%;
+.red {
+	column-count:  2;
+	column-gap: 50%;
 }
 
 .abouttitle {
