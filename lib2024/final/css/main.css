@@ -108,6 +108,7 @@ body {
 	column-count: 2;
 	column-width: 50%;
 	float: left;
+	margin-left: 25px;
 }
 
 .abouttitle {
