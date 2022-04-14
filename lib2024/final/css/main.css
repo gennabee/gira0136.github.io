@@ -160,6 +160,7 @@ tr:nth-child(even) {background-color: #efefef;}
 
 input {
   width: 225px;
+  margin-left: 25px;
 }
 input[type=text] {
   width: 225px;
