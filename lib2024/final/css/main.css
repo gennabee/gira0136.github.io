@@ -164,6 +164,7 @@ tr:nth-child(even) {background-color: #efefef;}
   max-width: 300px;
   margin: auto;
   text-align: center;
+  margin-left: 625px;
 }
 
 .title {
