@@ -188,12 +188,15 @@ footer{
 
 .quicklinks{
 	float: center;
+	transform: translate(-50%, -50%);
 }
 
 .sociallink{
 	float: center;
+	transform: translate(-50%, -50%);
 }
 
 .address{
 	float: center;
+	transform: translate(-50%, -50%);
 }
