@@ -165,7 +165,7 @@ tr:nth-child(even) {background-color: #efefef;}
   box-sizing: sectiontwo;
 }
 .column {
-  float: center;
+  float: left;
   padding: 10px;
 }
 
@@ -176,7 +176,7 @@ tr:nth-child(even) {background-color: #efefef;}
 }
 
 .right {
-  width: 20%;
+  width: 40%;
   padding-right: 25px;
 }
 
