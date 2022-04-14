@@ -193,7 +193,8 @@ input[type=text] {
 
 
 #teal{
-	width: 960px;
+	background-color: #454545;
+	width: 100%;
  	column-count:  3;
 	column-width: 33%;
 	float: left;
@@ -218,10 +219,4 @@ input[type=text] {
 
 .address{
 	align-items: center;
-}
-
-#teal {
-	background-color: #454545;
-	height: 225px;
-	width: 100%;
 }
