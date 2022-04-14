@@ -188,5 +188,6 @@ input[type=text] {
 }
 
 footer{
-  column-count: 3;
+  columns: 100px 3;
+  
 }
