@@ -94,6 +94,10 @@ body {
 	width: 290px;
 }
 
+#sectionone {
+  column-count: 2;
+}
+
 * {
   box-sizing: sectionone;
 }
@@ -161,6 +165,9 @@ th {
 }
 tr:nth-child(even) {background-color: #efefef;}
 
+#sectiontwo {
+  column-count: 2;
+}
 
 * {
   box-sizing: sectiontwo;
