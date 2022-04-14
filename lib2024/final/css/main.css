@@ -98,6 +98,12 @@ body {
 	column-count:  2;
 	column-gap: 50%;
 }
+.column {
+  float: left;
+  padding: 10px;
+  width: 50%;
+}
+
 
 .abouttitle {
 	color: #72a9ae;
