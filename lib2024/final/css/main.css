@@ -96,6 +96,7 @@ body {
 }
 
 .red {
+	background-color: indianred;
 	column-count:  2;
 	column-width: 50%;
 	float: left;
@@ -104,6 +105,7 @@ body {
 }
 
 #green {
+	background-color: seagreen;
 	column-count: 2;
 	column-width: 50%;
 	float: left;
