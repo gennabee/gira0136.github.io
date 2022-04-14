@@ -170,7 +170,7 @@ tr:nth-child(even) {background-color: #efefef;}
 }
 
 .left {
-	padding-left: 10px;
+	padding-left: 25px;
    width: 50%;
   font-size: 14px;
 }
