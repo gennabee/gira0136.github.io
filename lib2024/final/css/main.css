@@ -169,13 +169,13 @@ input {
 input[type=text] {
   width: 125px;
   padding: 5px 20px;
-  margin: 16px 30px;
+  margin: 16px 10px;
   box-sizing: border-box;
   margin-right: 500px;
 }
 
 .form-elm[type=text] {
-  width: 225px;
+  width: 125px;
   padding: 5px 20px;
   margin: 16px 30px;
   box-sizing: border-box;
