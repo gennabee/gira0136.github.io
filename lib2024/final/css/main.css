@@ -162,12 +162,12 @@ th {
 tr:nth-child(even) {background-color: #efefef;}
 
 input {
-  width: 225px;
+  width: 125px;
   margin-left: 40px;
 }
 
 input[type=text] {
-  width: 225px;
+  width: 125px;
   padding: 5px 20px;
   margin: 16px 30px;
   box-sizing: border-box;
