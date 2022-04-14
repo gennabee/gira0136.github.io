@@ -99,13 +99,13 @@ body {
 }
 .column {
   float: left;
-  padding: 5px;
+  padding: 10%;
 }
 
 .left {
 	padding-top: 0px;
 	padding-left: 10px;
-   width: 70%;
+   width: 50%;
   font-size: 14px;
 }
 
