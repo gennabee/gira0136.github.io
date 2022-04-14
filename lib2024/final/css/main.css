@@ -94,7 +94,7 @@ body {
 	width: 290px;
 }
 
-#sectionone {
+.sectionone {
   column-count: 2;
 }
 
@@ -165,7 +165,7 @@ th {
 }
 tr:nth-child(even) {background-color: #efefef;}
 
-#sectiontwo {
+.sectiontwo {
   column-count: 2;
 }
 
