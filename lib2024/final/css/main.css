@@ -109,8 +109,8 @@ body {
 	height: 450px;
 	width: 960px;
 	column-count: 2;
-	column-width: 50%;
-	column-gap: 5px;
+	column-width: 475px;
+	column-gap: 10px;
 	float: left;
 }
 
