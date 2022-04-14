@@ -169,7 +169,7 @@ input[type=text] {
   margin-right: 500px;
 }
 
-.form-elm {
+.form-elm[type=text] {
   width: 225px;
   padding: 5px 20px;
   margin: 16px 30px;
