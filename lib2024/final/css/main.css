@@ -175,6 +175,7 @@ footer{
  	column-count:  3;
 	column-width: 33%;
 	float: left;
+	height: 250px;
 }
 
 .links {
