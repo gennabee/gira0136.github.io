@@ -158,21 +158,6 @@ th {
 }
 tr:nth-child(even) {background-color: #efefef;}
 
-.column {
-  float: left;
-  padding: 5px;
-}
-
-.left {
-	padding-left: 25px;
-   width: 50%;
-  font-size: 14px;
-}
-
-.right {
-  width: 50%;
-  padding-right: 25px;
-}
 
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
