@@ -109,13 +109,13 @@ body {
 .left {
 	padding-top: 0px;
 	padding-left: 10px;
-   width: 50%;
+   width: 75%;
   font-size: 14px;
 }
 
 .right {
 	margin-top: 0px;
-  width: 50%;
+  width: 25%;
   padding-right: 25px;
 }
 
