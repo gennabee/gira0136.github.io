@@ -115,7 +115,7 @@ body {
 
 .right {
 	margin-top: 0px;
-  width: 30%;
+  width: 50%;
   padding-right: 25px;
 }
 
@@ -179,12 +179,12 @@ tr:nth-child(even) {background-color: #efefef;}
 
 .left {
 	padding-left: 25px;
-   width: 250px;
+   width: 50%;
   font-size: 14px;
 }
 
 .right {
-  width: 60%;
+  width: 50%;
   padding-right: 25px;
 }
 
