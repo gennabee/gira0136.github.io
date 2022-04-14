@@ -94,9 +94,6 @@ body {
 	width: 290px;
 }
 
-* {
-  box-sizing: sectionone;
-}
 
 .column {
   float: left;
