@@ -54,7 +54,6 @@ table {
 
 html{
 	width: 960px;
-	height: 1019px;
 
 }
 
@@ -108,7 +107,6 @@ body {
 	column-count: 2;
 	column-width: 50%;
 	float: left;
-	margin-left: 25px;
 }
 
 .abouttitle {
