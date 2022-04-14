@@ -167,7 +167,6 @@ tr:nth-child(even) {background-color: #efefef;}
 .column {
   float: left;
   padding: 5px;
-  height: 450px;
 }
 
 .left {
