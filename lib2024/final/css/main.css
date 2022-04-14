@@ -91,7 +91,7 @@ body {
 }
 
 #bridge {
-	width: 200px;
+	width: 290px;
 }
 
 * {
@@ -99,7 +99,7 @@ body {
 }
 .column {
   float: left;
-  padding: 15px;
+  padding: 5px;
 }
 
 .left {
@@ -112,7 +112,6 @@ body {
 .right {
 	margin-top: 0px;
   width: 30%;
-  padding-right: 25px;
 }
 
 .abouttitle {
