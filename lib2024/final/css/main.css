@@ -126,12 +126,13 @@ body {
 .edittitle {
 	color: #72a9ae;
 	font-size: 12px;
+	margin-left: 25px;
 }
 
 .profileinfotitle {
 	color: #72a9ae;
 	font-size: 12px;
-	padding-left: 50px;
+	padding-left: 625px;
 }
 
 table, td, th {
