@@ -98,7 +98,7 @@ body {
 
 .red {
 	column-count:  2;
-	column-width: 560px 360px;
+	column-width: 50%;
 	float: left;
 	font-size: 12px;
 	margin-left: 25px;
