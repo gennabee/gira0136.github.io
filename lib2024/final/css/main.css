@@ -161,6 +161,12 @@ tr:nth-child(even) {background-color: #efefef;}
 input {
   width: 225px;
 }
+input[type=text] {
+  width: 225px;
+  padding: 12px 20px;
+  margin: 16px 30px;
+  box-sizing: border-box;
+}
 
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
