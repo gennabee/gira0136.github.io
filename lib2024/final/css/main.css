@@ -107,6 +107,7 @@ body {
 	column-count: 2;
 	column-width: 50%;
 	float: left;
+	margin-left: 25px;
 }
 
 .abouttitle {
@@ -132,7 +133,6 @@ body {
 .profileinfotitle {
 	color: #72a9ae;
 	font-size: 12px;
-	padding-left: 625px;
 }
 
 table, td, th {
@@ -218,4 +218,10 @@ input[type=text] {
 
 .address{
 	align-items: center;
+}
+
+footer {
+	background-color: #454545;
+	height: 225px;
+	width: 100%;
 }
