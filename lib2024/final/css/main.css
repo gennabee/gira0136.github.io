@@ -167,7 +167,6 @@ input {
 
 input[type=text] {
   width: 125px;
-  padding: 5px 20px;
   margin: 16px 10px;
   box-sizing: border-box;
   margin-right: 500px;
