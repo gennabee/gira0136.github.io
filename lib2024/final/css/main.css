@@ -239,7 +239,7 @@ label {
 	background-color: purple;
 	float: left;
 	padding: 45px;
-	height: 250px;
+	height: 200px;
 	align-items: center;
 	line-height: 1;
 	text-align: center;
@@ -251,7 +251,7 @@ label {
 	float: left;
  	width: 33.33%;
  	padding: 45px;
- 	height: 250px;
+ 	height: 200px;
  	text-align: center;
 	color: white;
 }
