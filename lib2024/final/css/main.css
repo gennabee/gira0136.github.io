@@ -110,7 +110,7 @@ body {
 	width: 960px;
 	column-count: 2;
 	column-width: 450px;
-	column-gap: 10px;
+	column-gap: 25px;
 	float: left;
 }
 
