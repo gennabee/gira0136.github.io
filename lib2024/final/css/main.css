@@ -167,7 +167,7 @@ tr:nth-child(even) {background-color: #efefef;}
 
 input {
 	background-color: darkgrey;
-  width: 125px;
+ 	width: 125px;
 }
 
 input[type=text] {
@@ -183,6 +183,10 @@ label {
 	display: inline-block;
 	margin-right: 15px;
 	margin-left: 25px;
+}
+
+.aname {
+	padding-right: 40px;
 }
 
 .form-elm[type=text] {
