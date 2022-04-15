@@ -235,8 +235,8 @@ label {
 }
 
 .sociallink {
+	float: left;
 	align-items: center;
-	float: auto;
 	line-height: 1;
 	text-align: center;
 	color: white;
