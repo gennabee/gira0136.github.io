@@ -229,7 +229,7 @@ label {
 
 .sociallink{
 	align-items: center;
-	padding-top: 1px;
+	float: auto;
 	text-align: center;
 	color: white;
 }
