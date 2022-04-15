@@ -224,6 +224,7 @@ label {
 .quicklinks{
 	align-items: center;
 	text-align: center;
+	padding: 50%;
 	line-height: 1;
 	color: white;
 }
