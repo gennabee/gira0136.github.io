@@ -240,11 +240,12 @@ label {
 	line-height: 1;
 	text-align: center;
 	color: white;
+	column-span: none;
 }
 
 .address{
 	align-items: center;
 	text-align: center;
 	color: white;
-	column-span: none;
+
 }
