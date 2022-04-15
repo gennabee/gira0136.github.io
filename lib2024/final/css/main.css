@@ -215,7 +215,7 @@ label {
  	column-count:  3;
 	column-width: 33%;
 	float: left;
-	height: 250px;
+	height: 350px;
 }
 
 .links {
@@ -230,7 +230,6 @@ label {
 	align-items: center;
 	text-align: center;
 	padding: 7%;
-	padding-bottom: -300px;
 	line-height: 1;
 	color: white;
 }
