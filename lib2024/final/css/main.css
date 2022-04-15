@@ -226,7 +226,7 @@ label {
  	padding-right: 50px;
 }
 
-.quicklinks{
+#quicklinks{
 	align-items: center;
 	text-align: center;
 	padding: 7%;
@@ -246,5 +246,4 @@ label {
 	align-items: center;
 	text-align: center;
 	color: white;
-
 }
