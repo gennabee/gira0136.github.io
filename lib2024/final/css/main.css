@@ -173,6 +173,11 @@ input[type=text] {
   margin-right: 500px;
 }
 
+label {
+  padding: 12px 12px 30px 25px;
+  display: inline-block;
+}
+
 .form-elm[type=text] {
   width: 125px;
   padding: 5px 20px;
