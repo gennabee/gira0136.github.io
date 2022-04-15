@@ -248,11 +248,11 @@ label {
 
 .address {
 	background-color: darkred;
-	width: 200px;
+	width: 210px;
 	align-items: center;
 	float: left;
  	padding: 45px;
- 	height: 200px;
+ 	height: 180px;
  	text-align: center;
 	color: white;
 }
