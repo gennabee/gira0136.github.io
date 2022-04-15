@@ -235,6 +235,7 @@ label {
 }
 
 .sociallink {
+	background-color: purple;
 	float: left;
 	padding: 45px;
 	height: 300px;
