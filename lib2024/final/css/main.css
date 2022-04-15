@@ -224,13 +224,14 @@ label {
 .quicklinks{
 	align-items: center;
 	text-align: center;
+	line-height: 0.7;
 	color: white;
 }
 
 .sociallink{
 	align-items: center;
 	float: auto;
-	line-height: 2;
+	line-height: 1;
 	text-align: center;
 	color: white;
 }
