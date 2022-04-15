@@ -246,4 +246,5 @@ label {
 	align-items: center;
 	text-align: center;
 	color: white;
+	column-span: none;
 }
