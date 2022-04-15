@@ -226,7 +226,7 @@ label {
  	padding-right: 50px;
 }
 
-.quicklinks{
+.quicklinks {
 	align-items: center;
 	text-align: center;
 	padding: 7%;
@@ -234,7 +234,7 @@ label {
 	color: white;
 }
 
-.sociallink{
+.sociallink {
 	align-items: center;
 	float: auto;
 	line-height: 1;
@@ -242,7 +242,7 @@ label {
 	color: white;
 }
 
-.address{
+.address {
 	align-items: center;
 	text-align: center;
 	color: white;
