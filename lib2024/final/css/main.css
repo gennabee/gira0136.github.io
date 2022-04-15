@@ -205,10 +205,13 @@ label {
 }
 
 .title {
-  color: #72a9e;
+  color: #72a9ae;
   font-size: 18px;
 }
 
+.nametitle{
+	color: #72a9ae;
+}
 
 .teal {
 	background-color: #454545;
