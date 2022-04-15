@@ -198,6 +198,8 @@ label {
   max-width: 300px;
   max-height: 345px;
   padding-top: 95px;
+  padding-left: 30px;
+  padding-right: 30px;
   float: left;
   text-align: center;
 }
