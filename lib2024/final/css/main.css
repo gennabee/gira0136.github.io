@@ -111,7 +111,6 @@ body {
 	column-count: 2;
 	column-width: 465px;
 	column-gap: 25px;
-	orphans: 6;
 	float: left;
 }
 
@@ -215,6 +214,7 @@ label {
 	width: 960px;
  	column-count:  3;
 	column-width: 33%;
+	orphans: 3;
 	float: left;
 	height: 250px;
 }
