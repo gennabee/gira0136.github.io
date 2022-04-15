@@ -214,7 +214,6 @@ label {
 	width: 960px;
  	column-count:  3;
 	column-width: 33%;
-	column-span: all;
 	float: left;
 	height: 250px;
 }
