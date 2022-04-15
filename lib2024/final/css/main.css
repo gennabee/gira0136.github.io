@@ -214,9 +214,8 @@ label {
 	width: 960px;
  	column-count:  3;
 	column-width: 33%;
-	break-after: column;
 	float: left;
-	height: 250px;
+	height: 350px;
 }
 
 .links {
