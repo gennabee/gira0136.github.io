@@ -234,7 +234,7 @@ label {
 	color: white;
 }
 
-.quicklinks:after{
+.quicklinks:after {
 	content: "";
 	display: table;
 	clear: both;
