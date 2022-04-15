@@ -224,15 +224,18 @@ label {
 
 .quicklinks{
 	align-items: center;
+	text-align: center;
 	color: white;
 }
 
 .sociallink{
 	align-items: center;
+	text-align: center;
 	color: white;
 }
 
 .address{
 	align-items: center;
+	text-align: center;
 	color: white;
 }
