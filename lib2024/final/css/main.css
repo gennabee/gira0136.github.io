@@ -236,6 +236,8 @@ label {
 
 .sociallink {
 	float: left;
+	padding: 45px;
+	height: 300px;
 	align-items: center;
 	line-height: 1;
 	text-align: center;
