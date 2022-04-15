@@ -234,12 +234,6 @@ label {
 	color: white;
 }
 
-.quicklinks:after {
-	content: "";
-	display: table;
-	clear: both;
-}
-
 .sociallink {
 	align-items: center;
 	float: auto;
