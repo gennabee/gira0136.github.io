@@ -179,6 +179,7 @@ label {
 	background-color: hotpink;
 	padding: px 12px 5px 25px;
 	display: inline-block;
+	margin-right: 15px;
 }
 
 .form-elm[type=text] {
