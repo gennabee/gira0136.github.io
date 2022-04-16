@@ -164,7 +164,7 @@ th {
 }
 tr:nth-child(even) {background-color: #efefef;}
 
-input[submit] {
+input[type="submit"] {
 	margin-left: 300px;
 }
 
