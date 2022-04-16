@@ -164,13 +164,6 @@ th {
 }
 tr:nth-child(even) {background-color: #efefef;}
 
-input {
-	background-color: lightgoldenrodyellow;
- 	width: 200px;
- 	height: 20px;
- 	padding-left: 30px;
- 	display: inline-block;
-}
 
 .provincename-drop-container {
 	padding-left: 40px;
