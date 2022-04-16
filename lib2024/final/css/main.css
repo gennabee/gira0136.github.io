@@ -173,9 +173,8 @@ input {
  	display: inline-block;
 }
 
-input#email {
-	padding-left: 10px;
-	padding-right: 0px;
+.provincename-drop-container {
+	padding-left: 40px;
 }
 
 select {
