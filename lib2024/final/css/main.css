@@ -199,7 +199,7 @@ select {
 	display: inline-block;
 }
 
-input[type=text] {
+input[type=text], select {
 	background-color: sandybrown;
 	width: 225px;
 	height: 30px;
@@ -209,7 +209,7 @@ input[type=text] {
 }
 
 label {
-	width: 54px;
+	width: 58px;
 	display: inline-block;
 	background-color: hotpink;
 	padding: 0px 52px 0px 25px;
