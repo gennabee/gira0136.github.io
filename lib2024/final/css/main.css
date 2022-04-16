@@ -173,8 +173,8 @@ input {
 
 select {
 	width: 225px;
+	padding-right: 52px;
 	display: inline-block;
-	padding-right: 50px;
 }
 
 input[type=text] {
