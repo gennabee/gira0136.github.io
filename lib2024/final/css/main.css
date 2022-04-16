@@ -175,6 +175,7 @@ input {
 
 input#email {
 	padding-left: 10px;
+	padding-right: 0px;
 }
 
 select {
