@@ -188,7 +188,7 @@ input[type="submit"] {
 	margin-left: 335px;
 }
 
-.provincename-drop-container {
+select#provincename-drop-container {
 	padding-left: 40px;
 }
 
