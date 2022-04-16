@@ -168,6 +168,12 @@ tr:nth-child(even) {background-color: #efefef;}
 input {
 	background-color: darkgrey;
  	width: 125px;
+ 	display: inline-block;
+}
+
+select {
+	width: 125px;
+	display: inline-block;
 }
 
 input[type=text] {
@@ -179,7 +185,7 @@ input[type=text] {
 }
 
 label {
-	width: 240px;
+	width: 140px;
 	display: inline-block;
 	background-color: hotpink;
 	padding: px 12px 5px 25px;
