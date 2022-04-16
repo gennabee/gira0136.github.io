@@ -185,7 +185,7 @@ label {
 	margin-left: 25px;
 }
 
-.form-elm[type=text] {
+form-elm[type=text] {
   width: 125px;
   padding: px 20px;
   margin: 16px 30px;
