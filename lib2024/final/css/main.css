@@ -96,7 +96,6 @@ body {
 }
 
 .red {
-	background-color: indianred;
 	column-count:  2;
 	column-width: 50%;
 	float: left;
@@ -202,7 +201,6 @@ label {
 }
 
 form-elm[type=text] {
-	background-color: lightgoldenrodyellow;
   width: 125px;
   margin: 0px 30px;
   box-sizing: border-box;
@@ -252,7 +250,6 @@ form-elm[type=text] {
 }
 
 .sociallink {
-	background-color: purple;
 	float: left;
 	padding: 45px;
 	height: 150px;
@@ -263,7 +260,6 @@ form-elm[type=text] {
 }
 
 .address {
-	background-color: darkred;
 	width: 220px;
 	align-items: center;
 	float: left;
