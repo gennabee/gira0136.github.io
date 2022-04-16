@@ -168,7 +168,7 @@ tr:nth-child(even) {background-color: #efefef;}
 input {
 	background-color: darkgrey;
  	width: 200px;
- 	height: 30px;
+ 	height: 5px;
  	display: inline-block;
 }
 
