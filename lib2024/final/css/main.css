@@ -132,7 +132,6 @@ body {
 	font-size: 12px;
 	margin-left: 25px;
 	margin-top: 30px;
-	margin-bottom: 2px;
 }
 
 .profileinfotitle {
@@ -168,7 +167,7 @@ tr:nth-child(even) {background-color: #efefef;}
 
 input {
 	background-color: darkgrey;
- 	width: 225px;
+ 	width: 200px;
  	height: 30px;
  	display: inline-block;
 }
