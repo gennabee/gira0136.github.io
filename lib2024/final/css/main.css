@@ -172,6 +172,9 @@ input {
  	padding-left: 30px;
  	display: inline-block;
 }
+input#email {
+	padding-left: 40px;
+}
 
 select {
 	width: 225px;
