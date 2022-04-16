@@ -61,6 +61,12 @@ body {
   font-family: "Sofia", sans-serif;
 }
 
+p {
+
+	font-family: 'open_sanssemibold', sans-serif;
+
+}
+
 .topnav {
   overflow: hidden;
   background-color: #72a9ae;
