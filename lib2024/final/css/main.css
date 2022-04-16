@@ -198,8 +198,9 @@ label {
 }
 
 form-elm[type=text] {
+	background-color: lightgoldenrodyellow;
   width: 125px;
-  margin: 50px 30px;
+  margin: 0px 30px;
   box-sizing: border-box;
   margin-right: 500px;
 }
