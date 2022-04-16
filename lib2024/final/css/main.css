@@ -209,7 +209,7 @@ input[type=text], select {
 }
 
 label {
-	width: 58px;
+	width: 65px;
 	display: inline-block;
 	background-color: hotpink;
 	padding: 0px 52px 0px 25px;
