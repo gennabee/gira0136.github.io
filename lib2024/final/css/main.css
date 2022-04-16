@@ -164,7 +164,9 @@ th {
 }
 tr:nth-child(even) {background-color: #efefef;}
 
-
+input[submit] {
+	margin-left: 300;
+}
 .provincename-drop-container {
 	padding-left: 40px;
 }
