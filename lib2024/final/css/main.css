@@ -175,7 +175,6 @@ input[type=text] {
 	width: 125px;
 	margin: 16px 10px;
 	box-sizing: border-box;
-	float: right;
 }
 
 label {
