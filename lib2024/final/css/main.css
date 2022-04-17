@@ -190,6 +190,11 @@ tr:nth-child(even) {background-color: #efefef;}
 
 input[type="submit"] {
 	margin-left: 335px;
+	transition: width 3s;
+}
+
+input:hover {
+	width: 300px;
 }
 
 select#provincename-drop-container {
