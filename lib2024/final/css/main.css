@@ -63,6 +63,13 @@ table {
 
 }
 
+h1 {
+	font-size: 55px;
+}
+
+h2 {
+	font-size: 20px;
+}
 
 html{
 	width: 960px;
