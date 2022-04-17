@@ -242,7 +242,7 @@ form-elm[type=text] {
 	background-color: #454545;
 	width: 960px;
  	column-count:  3;
-	column-width: 33%;
+	column-width: 320px;
 	float: left;
 	height: 250px;
 }
