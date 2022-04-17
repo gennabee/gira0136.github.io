@@ -190,7 +190,7 @@ tr:nth-child(even) {background-color: #efefef;}
 
 input[type="submit"] {
 	margin-left: 335px;
-	transition: width 3s;
+	transition: width 6s;
 }
 
 input:hover {
