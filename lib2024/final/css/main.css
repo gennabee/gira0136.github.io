@@ -128,7 +128,7 @@ p {
 	width: 960px;
 	column-count: 2;
 	column-width: 465px;
-	column-gap: 35px;
+	column-gap: 20px;
 	float: left;
 }
 
