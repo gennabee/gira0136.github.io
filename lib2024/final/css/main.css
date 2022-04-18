@@ -191,11 +191,11 @@ tr:nth-child(even) {background-color: #efefef;}
 input[type="submit"] {
 	margin-left: 335px;
 	transition: width 6s;
+	animation-name: example;
 }
 
 input:hover {
 	width: 300px;
-	animation-name: example;
 }
 
 @keyframes example {
