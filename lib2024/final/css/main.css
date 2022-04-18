@@ -118,6 +118,14 @@ p {
 	width: 290px;
 	padding-top: 50px;
 	padding-left: 70px;
+	animation-name: example;
+}
+
+@keyframes example {
+  0%   {background-color: red;}
+  25%  {background-color: yellow;}
+  50%  {background-color: blue;}
+  100% {background-color: green;}
 }
 
 .red {
@@ -281,16 +289,8 @@ form-elm[type=text] {
 	line-height: 1;
 	text-align: center;
 	color: white;
-	animation-name: social;
-  animation-duration: 4s;
 }
 
-@keyframes example {
-  0%   {background-color: red;}
-  25%  {background-color: yellow;}
-  50%  {background-color: blue;}
-  100% {background-color: green;}
-}
 
 .address {
 	width: 220px;
